@@ -1,6 +1,6 @@
-#### Hi, I'm Alexandre and here's a brief description of what I'm doing now:
+#### Hi, I'm Kizyow and here's a brief description of what I'm doing now:
 
-* Final-year **Software Systems Engineering** student at **ENSEEIHT (N7)**, Toulouse, France.
+* Final-year **Software Systems Engineering** student.
 * Focused on **software design, development, and formal verification**
 * Passionate about **backend development**, **distributed systems**, and **software architecture**.
 
